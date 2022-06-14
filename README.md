@@ -1,1 +1,1 @@
-# Machine Learning Income Prediction :construction_worker:	
+# :dollar: Machine Learning models to predict incomes 	
