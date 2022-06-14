@@ -10,7 +10,7 @@ The following models are used:
 
 The metrics of these classification models were compared in order to find the model with the highest accuracy.
 
-# :closed_book: :pencil12: Methods applied
+# :closed_book: :pencil2:  Methods applied
 
 The content of this repository is part of sprint I of the specialized Data Science course of the civil association ICARO certified by the National University of Córdoba, Argentina. The skills developed in this notebook are the following:
 
