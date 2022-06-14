@@ -14,9 +14,9 @@ The metrics of these classification models were compared in order to find the mo
 
 The content of this repository is part of sprint I of the specialized Data Science course of the civil association ICARO certified by the National University of Córdoba, Argentina. The skills developed in this notebook are the following:
 
-Data wrangling
-Exploratory data analysis.
-Data visualization
-Classification machine learning models
-Hyperparameter optimization
-Metrics for evaluating classification models
+* Data wrangling
+* Exploratory data analysis.
+* Data visualization
+* Classification machine learning models
+* Hyperparameter optimization
+* Metrics for evaluating classification models
